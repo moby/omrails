@@ -1,6 +1,4 @@
 # One Month Rails
 
-This is the sample application for
-[*One Month Rails: Teach Yourself to Code*][http://onemonthrails.com]
-by [Matthew Schaar]
+This is my sample file for One Month Rails.
 
