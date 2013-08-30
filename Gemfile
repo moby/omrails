@@ -47,3 +47,6 @@ gem 'bootstrap-sass', '~> 2.3.2.1'
 #Enabling all features
 gem 'rails_12factor'
 
+#Paperclip
+gem 'paperclip', github: 'thoughtbot/paperclip', branch: 'rails-4'
+
