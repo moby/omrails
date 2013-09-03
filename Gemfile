@@ -9,6 +9,7 @@ gem 'devise', '~> 3.0.0.rc'
 gem 'simple_form'
 gem 'country_select'
 gem 'protected_attributes'
+gem 'aws-sdk'
 
 group :production do
 	gem 'pg'
