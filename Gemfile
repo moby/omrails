@@ -10,6 +10,7 @@ gem 'simple_form'
 gem 'country_select'
 gem 'protected_attributes'
 gem 'aws-sdk'
+gem 'faker', '1.1.2'
 
 group :production do
 	gem 'pg'
